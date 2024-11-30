@@ -12,6 +12,8 @@
 - Отримувати статистику по знайдених словах
 
 ## Структура проєкту
+
+```plaintext
 goit-cs-hw-04/
 │
 ├── src/
@@ -33,11 +35,13 @@ goit-cs-hw-04/
 
 1. Клонувати репозиторій:
 
+```bash
 git clone <repository-url>
 cd goit-cs-hw-04
 
 2. Створити та активувати віртуальне середовище:
 
+```bash
 python -m venv .venv
 source .venv/bin/activate  # для macOS/Linux
 
@@ -45,6 +49,7 @@ source .venv/bin/activate  # для macOS/Linux
 
 1. Запустити програму:
 
+```bash
 python main.py
 
 2. Ввести параметри пошуку:
