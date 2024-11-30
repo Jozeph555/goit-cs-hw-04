@@ -1,0 +1,132 @@
+Параметри пошуку:
+- Директорія: /Users/joseph/goit-neoversity/
+- Ключові слова: import, python, return
+- Кількість потоків/процесів: 6
+
+Знайдено 369 файлів для обробки
+
+Результати пошуку (потоки):
+==================================================
+Час виконання: 0.0380 секунд
+
+Ключове слово 'import':
+- Знайдено у 14 файлах:
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-fp/.venv/lib/python3.12/site-packages/fontTools/ttLib/tables/table_API_readme.txt
+  • /Users/joseph/goit-neoversity/Computer_Systems/goit-cs-hw-03/.venv/lib/python3.12/site-packages/numpy-2.1.3.dist-info/LICENSE.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/pulp/solverdir/cbc/linux/32/coin-license.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/pulp/solverdir/cbc/linux/64/coin-license.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/pulp/solverdir/cbc/linux/arm64/coin-license.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/pulp/solverdir/cbc/osx/64/coin-license.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/pulp/solverdir/cbc/win/32/coin-license.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/pulp/solverdir/cbc/win/64/coin-license.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/scipy-1.14.1.dist-info/LICENSE.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-fp/.venv/lib/python3.12/site-packages/numpy-2.1.2.dist-info/LICENSE.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-06/myenv/lib/python3.12/site-packages/fontTools/ttLib/tables/table_API_readme.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/fontTools/ttLib/tables/table_API_readme.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/numpy-2.1.2.dist-info/LICENSE.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-06/myenv/lib/python3.12/site-packages/numpy-2.1.2.dist-info/LICENSE.txt
+
+Ключове слово 'python':
+- Знайдено у 10 файлах:
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-fp/.venv/lib/python3.12/site-packages/fontTools/ttLib/tables/table_API_readme.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-fp/requirements.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-03/readme.md
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-09/readme.md
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-06/myenv/lib/python3.12/site-packages/fontTools/ttLib/tables/table_API_readme.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/fontTools/ttLib/tables/table_API_readme.txt
+  • /Users/joseph/goit-neoversity/Python Programming/Chef-s_Book/README.md
+  • /Users/joseph/goit-neoversity/Python Programming/Tech interview checklist.md
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/scipy/stats/tests/data/studentized_range_mpmath_ref.json
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/requirements.txt
+
+Ключове слово 'return':
+- Знайдено у 13 файлах:
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-fp/.venv/lib/python3.12/site-packages/fontTools/ttLib/tables/table_API_readme.txt
+  • /Users/joseph/goit-neoversity/Computer_Systems/goit-cs-hw-03/.venv/lib/python3.12/site-packages/numpy-2.1.3.dist-info/LICENSE.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-05/article 1.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/scipy-1.14.1.dist-info/LICENSE.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-fp/.venv/lib/python3.12/site-packages/numpy-2.1.2.dist-info/LICENSE.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-06/myenv/lib/python3.12/site-packages/fontTools/ttLib/tables/table_API_readme.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/fontTools/ttLib/tables/table_API_readme.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/numpy-2.1.2.dist-info/LICENSE.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-06/myenv/lib/python3.12/site-packages/numpy-2.1.2.dist-info/LICENSE.txt
+  • /Users/joseph/goit-neoversity/Computer_Systems/goit-cs-hw-03/.venv/lib/python3.12/site-packages/numpy/ma/API_CHANGES.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-fp/.venv/lib/python3.12/site-packages/numpy/ma/API_CHANGES.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/numpy/ma/API_CHANGES.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-06/myenv/lib/python3.12/site-packages/numpy/ma/API_CHANGES.txt
+
+Загальна статистика:
+--------------------------------------------------
+Всього унікальних файлів: 26
+Всього ключових слів: 3
+
+Частота знаходження слів:
+- 'import': 14 файл(ів)
+- 'return': 13 файл(ів)
+- 'python': 10 файл(ів)
+
+Результати пошуку (процеси):
+==================================================
+Час виконання: 0.1021 секунд
+
+Ключове слово 'python':
+- Знайдено у 10 файлах:
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-fp/requirements.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-03/readme.md
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-06/myenv/lib/python3.12/site-packages/fontTools/ttLib/tables/table_API_readme.txt
+  • /Users/joseph/goit-neoversity/Python Programming/Chef-s_Book/README.md
+  • /Users/joseph/goit-neoversity/Python Programming/Tech interview checklist.md
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-09/readme.md
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/fontTools/ttLib/tables/table_API_readme.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/scipy/stats/tests/data/studentized_range_mpmath_ref.json
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/requirements.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-fp/.venv/lib/python3.12/site-packages/fontTools/ttLib/tables/table_API_readme.txt
+
+Ключове слово 'return':
+- Знайдено у 13 файлах:
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-05/article 1.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-06/myenv/lib/python3.12/site-packages/fontTools/ttLib/tables/table_API_readme.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-06/myenv/lib/python3.12/site-packages/numpy-2.1.2.dist-info/LICENSE.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-06/myenv/lib/python3.12/site-packages/numpy/ma/API_CHANGES.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/fontTools/ttLib/tables/table_API_readme.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/numpy-2.1.2.dist-info/LICENSE.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/numpy/ma/API_CHANGES.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/scipy-1.14.1.dist-info/LICENSE.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-fp/.venv/lib/python3.12/site-packages/fontTools/ttLib/tables/table_API_readme.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-fp/.venv/lib/python3.12/site-packages/numpy-2.1.2.dist-info/LICENSE.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-fp/.venv/lib/python3.12/site-packages/numpy/ma/API_CHANGES.txt
+  • /Users/joseph/goit-neoversity/Computer_Systems/goit-cs-hw-03/.venv/lib/python3.12/site-packages/numpy-2.1.3.dist-info/LICENSE.txt
+  • /Users/joseph/goit-neoversity/Computer_Systems/goit-cs-hw-03/.venv/lib/python3.12/site-packages/numpy/ma/API_CHANGES.txt
+
+Ключове слово 'import':
+- Знайдено у 14 файлах:
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-06/myenv/lib/python3.12/site-packages/fontTools/ttLib/tables/table_API_readme.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-06/myenv/lib/python3.12/site-packages/numpy-2.1.2.dist-info/LICENSE.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/fontTools/ttLib/tables/table_API_readme.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/numpy-2.1.2.dist-info/LICENSE.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/pulp/solverdir/cbc/linux/32/coin-license.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/pulp/solverdir/cbc/linux/64/coin-license.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/pulp/solverdir/cbc/linux/arm64/coin-license.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/pulp/solverdir/cbc/osx/64/coin-license.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/pulp/solverdir/cbc/win/32/coin-license.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/pulp/solverdir/cbc/win/64/coin-license.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-hw-10/myenv/lib/python3.12/site-packages/scipy-1.14.1.dist-info/LICENSE.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-fp/.venv/lib/python3.12/site-packages/fontTools/ttLib/tables/table_API_readme.txt
+  • /Users/joseph/goit-neoversity/Basic Algorithms and Data Structure/goit-algo-fp/.venv/lib/python3.12/site-packages/numpy-2.1.2.dist-info/LICENSE.txt
+  • /Users/joseph/goit-neoversity/Computer_Systems/goit-cs-hw-03/.venv/lib/python3.12/site-packages/numpy-2.1.3.dist-info/LICENSE.txt
+
+Загальна статистика:
+--------------------------------------------------
+Всього унікальних файлів: 26
+Всього ключових слів: 3
+
+Частота знаходження слів:
+- 'import': 14 файл(ів)
+- 'return': 13 файл(ів)
+- 'python': 10 файл(ів)
+
+Порівняння часу виконання:
+--------------------------------------------------
+- Потоки:   0.0380 секунд
+- Процеси:  0.1021 секунд
+- Різниця:  0.0641 секунд
