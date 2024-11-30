@@ -30,6 +30,7 @@ goit-cs-hw-04/
 ├── requirements.txt
 ├── README.md
 └── search_results_20241129_223211.txt  # Приклад файлу з результатами
+```
 
 ## Встановлення
 
@@ -38,12 +39,14 @@ goit-cs-hw-04/
 ```bash
 git clone <repository-url>
 cd goit-cs-hw-04
+```
 
 2. Створити та активувати віртуальне середовище:
 
 ```bash
 python -m venv .venv
 source .venv/bin/activate  # для macOS/Linux
+```
 
 ## Використання
 
@@ -51,6 +54,7 @@ source .venv/bin/activate  # для macOS/Linux
 
 ```bash
 python main.py
+```
 
 2. Ввести параметри пошуку:
 
